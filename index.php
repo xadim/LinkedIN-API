@@ -84,7 +84,7 @@ if (empty($_COOKIE['SocialAuth'])) {
 
             <a href="javascript:;" onclick="openLoginDialog('?action=login&type=linkedin')">
                 <img src="http://www.reciprocatellc.com/wp-content/uploads/2010/04/linkedin-logo.jpg" width="600px" height="170px"/></a>
-                 <h2 style="color: #666; font-size:17px">Sign Up with LinkedIN API By Teambuktoo<br>"Don't forget to get an API Key and Secret Key to test the sample code. Get one from <a href="https://www.linkedin.com/secure/developer">https://www.linkedin.com/secure/developer</a>".</h2>
+                 <h2 style="color: #666; font-size:17px">Sign Up with LinkedIN API By Khadime Diakhate www.teambuktoo.com<br>"Don't forget to get an API Key and Secret Key to test the sample code. Get one from <a href="https://www.linkedin.com/secure/developer">https://www.linkedin.com/secure/developer</a>".</h2>
 
 
   <?php
